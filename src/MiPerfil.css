@@ -1,0 +1,44 @@
+#headerFacultad{
+    margin-left: 50px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#headerMiPerfil{
+    margin-left: 50px;
+}
+#divMiPerfil{
+    display: flex;
+    padding: auto;
+}
+#divLista{
+    width: 900px;
+    display:grid;
+    padding-top: 20px;
+}
+#dialogUsuario{
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#dialogCorreo{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#dialogContraseña{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#leyendas{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#divBotones{
+    display: flex;
+    margin-left: auto;
+    margin-right: 100px;
+}
+#leyendaPublicacion{
+    margin-right: auto;
+    margin-left: 50px;
+}

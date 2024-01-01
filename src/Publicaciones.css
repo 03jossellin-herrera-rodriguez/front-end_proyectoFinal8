@@ -1,0 +1,55 @@
+#headerFacultad{
+    margin-left: 50px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#box1{
+    padding-top: 15px;
+    margin-right: 20px;
+}
+#box2{
+    padding-top: 15px;
+}
+#headerPublicaciones{
+    margin-left: 50px;
+}
+#divPublicaciones{
+    display: flex;
+}
+#divsPublicaciones2{
+    width: 600px;
+    text-align:justify;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top: 15px;
+  }
+#boxCerrar{
+    margin-left: auto;
+    margin-right: 100px;
+    padding: auto;
+}
+#division{
+    margin-top: 20px;
+}
+#botonEliminar{
+    margin: 0 auto;
+}
+#listaEliminar{
+    display: flex;
+    
+}
+#divLista2{
+    width: 600px;
+    display: grid;
+    margin: 0 auto;
+}
+#divBotones{
+    display: flex;
+    margin-left: auto;
+    margin-right: 100px;
+}
+#leyendaPublicacion{
+    margin-right: auto;
+    margin-left: 50px;
+}
+
+  
