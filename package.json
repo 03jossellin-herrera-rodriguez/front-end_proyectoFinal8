@@ -1,9 +1,12 @@
 {
+  "homepage":"https://03jossellin-herrera-rodriguez.github.io/front-end_proyectoFinal8",
   "name": "foruvfrontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist -r https://github.com/03jossellin-herrera-rodriguez/front-end_proyectoFinal8",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
